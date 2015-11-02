@@ -11,3 +11,16 @@
 	<iostream>
 	<math.h>
 
+1446484956 source:/home/carlos/Documents/Simulacro de Examen/Evaluador.cpp
+	"Evaluador.h"
+
+1446484956 /home/carlos/Documents/Simulacro de Examen/Evaluador.h
+	<iostream>
+	<stack>
+
+1446487055 source:/home/carlos/Documents/Simulacro de Examen/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<math.h>
+	<string>
+
